@@ -7,7 +7,7 @@ export const MemeForm  = () => {
    const [meme, setMeme] = useState({
       topText: '',
       bottomText: '',
-      randomImage: 'https://i.imgflip.com/2za3u1.jpg'
+      randomImage: 'https://i.imgflip.com/af002.jpg'
    })
 
    useEffect(() => {
